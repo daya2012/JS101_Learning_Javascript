@@ -1,0 +1,8 @@
+let a="Rohan Verma";
+console.log(a);
+
+let b="Ramesh Kumar Singh";
+console.log(b);
+
+let c="Sushma Devi";
+console.log(c);
