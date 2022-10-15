@@ -1,0 +1,6 @@
+//Given an array of string count the overall total number of characters
+let str="ankush is a good teacher";
+let count=0;
+for(i=0;i<=str.length-1;i++){
+  count++;
+}console.log(count++);
