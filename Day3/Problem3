@@ -1,0 +1,6 @@
+let x="Daya Shankar";
+console.log(x);
+console.log(typeof(x));
+let y=27;
+console.log(y);
+console.log(typeof(y));

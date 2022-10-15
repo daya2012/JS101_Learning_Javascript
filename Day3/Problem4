@@ -1,0 +1,23 @@
+let x="Name=Rohan Verma";
+console.log(x);
+
+let y="School's Name=Saint Joseph's School";
+console.log(y);
+
+let z="Class=9";
+console.log(z);
+
+let a="Section=A";
+console.log(a);
+
+let r="Roll No=15";
+console.log(r);
+
+let p="Marks scored in Physics=75";
+console.log(p);
+
+let c="Marks scored in Chemistry=80";
+console.log(c);
+
+let m="Marks scored in Mathematics=85";
+console.log(m);
