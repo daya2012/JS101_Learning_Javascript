@@ -1,0 +1,13 @@
+//Print the Calendar date in the below format
+let day;
+for(j=1;j<=12;j++){
+  if(j==2){
+    day=28;
+  }else if(j==4 || j==6 || j==9 || j==11){
+    day=30;
+  }else{
+    day=31;
+  } for(i=1;i<=day;i++){
+    console.log(j+"-"+i);
+  }
+    }

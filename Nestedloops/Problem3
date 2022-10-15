@@ -1,0 +1,15 @@
+//Print a box pattern using *
+for(let j=1;j<=10;j++){
+  let bag="";
+  for(let i=1;i<=10;i++){
+    if(j==1 || j==10){
+      bag+="*";
+    }else{
+      if(i==1 || i==10){
+        bag+="*";
+        }else{
+        bag+=" ";
+        }
+    }
+  }console.log(bag);
+}
