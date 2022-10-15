@@ -1,0 +1,7 @@
+//Given an array print the position (starting with 1) and the element in a single line.
+let arr=["Raju","Rohan", "Aman","Adtiya"];
+let j=1;
+for(i=0;i<=arr.length-1;i++){
+  console.log(j+"."+arr[i]);
+  j++;
+}
